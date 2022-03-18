@@ -1,0 +1,1 @@
+# Snaps-integration-multimodule-test
