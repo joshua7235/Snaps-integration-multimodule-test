@@ -1,0 +1,5 @@
+rootProject.name = 'roottest'
+include 'module-api'
+include 'module-framework'
+include 'module-web'
+
